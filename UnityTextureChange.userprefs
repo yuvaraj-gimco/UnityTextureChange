@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\DragController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\CameraController.cs" Line="33" Column="3" />
+      <File FileName="Assets\Scripts\CharacterController.cs" Line="25" Column="3" />
+      <File FileName="Assets\Scripts\DragController.cs" Line="9" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="..\SlabChange\Assets\Scripts\GetAllTextures.cs" line="13" offsetX="536" offsetY="192" expression="textures" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
